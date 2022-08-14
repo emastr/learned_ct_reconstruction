@@ -1,0 +1,9 @@
+venv/*
+session/*
+session_kits/*
+data/*
+tools/Spektr-3.0/*
+sessions/*
+Thesis notes/*
+scripts/*
+*.pt
